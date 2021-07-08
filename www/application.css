@@ -66,6 +66,8 @@ h4 {
 
 p {
   font-size: 1rem
+  
+
 }
 
 @media screen and (max-width: 1080px) {
@@ -309,6 +311,10 @@ justify-content: center;
   flex-wrap: wrap;
   align-items: flex-start;
   text-align: center;
+}
+
+.events > p {
+  color: #5c5b5b;
 }
 
 hr {
