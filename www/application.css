@@ -44,6 +44,7 @@ img {
 /* TYPOGRAPHY */
 h1, h2, h3, h4 {
   font-weight: 400;
+  color: #5c5b5b;
 }
 
 h1 {
@@ -178,7 +179,6 @@ nav {
 
 .slogan-top {
 text-align: center;
-color:#5c5b5b;
 padding: 60px;
 }
 
